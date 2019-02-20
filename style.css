@@ -161,4 +161,88 @@ ul, li {
         box-sizing: border-box;
         background: none; }
 
+.bigbox1 .mid-nr .kuang .yl-img {
+  width: 100%;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  position: relative; }
+  .bigbox1 .mid-nr .kuang .yl-img img {
+    width: 43px;
+    height: 43px; }
+  .bigbox1 .mid-nr .kuang .yl-img .yl-text {
+    width: 100%;
+    height: 26px;
+    position: absolute;
+    top: 9px;
+    left: 0px;
+    color: #ffc786;
+    font-size: 24px;
+    font-family: FZXKJW_1712967488;
+    line-height: 26px;
+    text-align: center; }
+    .bigbox1 .mid-nr .kuang .yl-img .yl-text span {
+      padding-left: 6px;
+      padding-right: 6px; }
+.bigbox1 .mid-nr .kuang .text-cc {
+  width: 203px;
+  height: 242px;
+  margin: 0 auto;
+  margin-top: 20px;
+  color: #ffc786;
+  font-size: 14px;
+  text-align: left;
+  line-height: 22px; }
+.bigbox1 .mid-nr .kuang .wan {
+  width: 100%;
+  height: 67px;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px; }
+  .bigbox1 .mid-nr .kuang .wan img {
+    width: 99px;
+    height: 67px; }
+
+.bigbox2 .mid-nr .kuang .yl-img {
+  width: 100%;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  position: relative; }
+  .bigbox2 .mid-nr .kuang .yl-img img {
+    width: 43px;
+    height: 43px; }
+  .bigbox2 .mid-nr .kuang .yl-img .yl-text {
+    width: 100%;
+    height: 26px;
+    position: absolute;
+    top: 9px;
+    left: 0px;
+    color: #ffc786;
+    font-size: 24px;
+    font-family: FZXKJW_1712967488;
+    line-height: 26px;
+    text-align: center; }
+    .bigbox2 .mid-nr .kuang .yl-img .yl-text span {
+      padding-left: 6px;
+      padding-right: 6px; }
+.bigbox2 .mid-nr .kuang .text-1 {
+  width: 100%;
+  height: 20px;
+  margin-top: 124px;
+  color: #ffc786;
+  font-size: 18px;
+  text-align: center;
+  line-height: 20px; }
+.bigbox2 .mid-nr .kuang .text-2 {
+  width: 100%;
+  height: 154px;
+  margin-top: 20px;
+  color: #ffc786;
+  font-size: 14px;
+  text-align: center;
+  line-height: 22px; }
+
 /*# sourceMappingURL=style.css.map */
